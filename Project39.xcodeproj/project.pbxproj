@@ -16,6 +16,7 @@
 		F1C9B0292AE017CF002D8670 /* Project39Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C9B0282AE017CF002D8670 /* Project39Tests.swift */; };
 		F1C9B0332AE017CF002D8670 /* Project39UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C9B0322AE017CF002D8670 /* Project39UITests.swift */; };
 		F1C9B0352AE017CF002D8670 /* Project39UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C9B0342AE017CF002D8670 /* Project39UITestsLaunchTests.swift */; };
+		F1C9B0422AE0196E002D8670 /* PlayData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C9B0412AE0196E002D8670 /* PlayData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F1C9B02E2AE017CF002D8670 /* Project39UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project39UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1C9B0322AE017CF002D8670 /* Project39UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project39UITests.swift; sourceTree = "<group>"; };
 		F1C9B0342AE017CF002D8670 /* Project39UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project39UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F1C9B0412AE0196E002D8670 /* PlayData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F1C9B01A2AE017CF002D8670 /* Assets.xcassets */,
 				F1C9B01C2AE017CF002D8670 /* LaunchScreen.storyboard */,
 				F1C9B01F2AE017CF002D8670 /* Info.plist */,
+				F1C9B0412AE0196E002D8670 /* PlayData.swift */,
 			);
 			path = Project39;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1C9B0162AE017CE002D8670 /* ViewController.swift in Sources */,
+				F1C9B0422AE0196E002D8670 /* PlayData.swift in Sources */,
 				F1C9B0122AE017CE002D8670 /* AppDelegate.swift in Sources */,
 				F1C9B0142AE017CE002D8670 /* SceneDelegate.swift in Sources */,
 			);
